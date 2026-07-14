@@ -1,0 +1,6 @@
+{
+  "WhitelistGlobalStylesheetRelativePaths": [
+    "Data_Kami\\Views\\Shared\\_Layout.cshtml.css"
+  ],
+  "WhitelistGlobalStylesheetDirectoryRelativePaths": []
+}
